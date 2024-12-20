@@ -64,3 +64,14 @@
 [20Dec2024 02:56:28.622] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10474 ms
 [20Dec2024 02:56:28.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (24.164s)! For help, type "help"
 [20Dec2024 02:56:28.640] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Dec2024 03:06:30.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/[::1]:57646] logged in with entity id 55 at (1.5, 53.0, 38.5)
+[20Dec2024 03:06:30.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[20Dec2024 03:10:46.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made d0ce3_ a server operator
+[20Dec2024 03:10:51.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [d0ce3_: Set own game mode to Creative Mode]
+[20Dec2024 03:10:59.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [d0ce3_: Set the time to 1000]
+[20Dec2024 03:11:51.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [d0ce3_: Applied enchantment Efficiency V to d0ce3_'s item]
+[20Dec2024 03:11:55.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [d0ce3_: Set own game mode to Survival Mode]
+[20Dec2024 03:14:11.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=63, z=-158} BlockPos{x=47, y=64, z=-161}
+[20Dec2024 03:14:30.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[20Dec2024 03:14:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[20Dec2024 03:14:30.132] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
